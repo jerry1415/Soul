@@ -1,0 +1,97 @@
+*{
+    background-color: grey;
+}
+
+
+.bar{
+    background-color: cadetblue;
+    padding: 2%;
+    margin-right: 1200px;
+}
+
+.bar img{
+    width: 120px;
+    height: 130px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 2%;
+    text-indent: 2%;
+}
+
+a:hover{
+    color: transparent;
+}
+#Hindi{
+    position: relative;
+}
+
+.Song2{
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+.Song2 img{
+    width: 20%;
+    height: 20%;
+}
+
+.Song1{
+    position: relative;
+    left: 50px;
+}
+
+.audio2{
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+
+#Eng{
+    position: relative;
+    left: 650px;
+    top: -550px;
+}
+
+.audio3{
+    position: relative;
+    right: 40px;
+}
+
+.Song4{
+    position: relative;
+    top: 20px;
+}
+.audio4{
+    position: relative;
+    left: -40px;
+}
+
+
+#latin{
+    position: relative;
+    left: 1200px;
+    top: -1200px;
+}
+
+.audio5{
+    position: relative;
+    right: 40px;
+}
+
+.Song6{
+    position: relative;
+    top: 20px;
+}
+
+
+.audio6{
+    position: relative;
+    right: 40px;
+    top: 20px;
+}

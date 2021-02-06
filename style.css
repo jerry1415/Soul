@@ -1,0 +1,107 @@
+*{
+    background-color: grey;
+}
+
+
+.bar{
+    background-color: cadetblue;
+    padding: 2%;
+    margin-right: 1200px;
+}
+
+.bar img{
+    width: 100px;
+    height: 110px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 2%;
+    text-indent: 2%;
+}
+
+a:hover{
+    color: transparent;
+}
+#parent{
+    position: relative;
+}
+
+.Song1{
+    padding-left: 150px;
+    position: relative;
+}
+
+.audio1{
+    padding-left: 100px;
+}
+
+.Song2{
+    position: relative;
+    left: 600px;
+    top: -250px;
+}
+
+.audio2{
+    position: relative;
+    left: 550px;
+    top: -280px;
+}
+
+.Song3{
+    position: relative;
+    left: 1100px;
+    top: -550px;
+}
+
+.Song3 img{
+    width: 20%;
+    height: 20%;
+}
+
+
+.audio3{
+    position: relative;
+    left: 1100px;
+    top: -600px;
+}
+
+.Song4{
+    position: relative;
+    left: 150px;
+    top: -600px;
+}
+
+.audio4{
+    position: relative;
+    left: 100px ;
+    top: -600px;
+    
+}
+
+.Song5{
+    position: relative;
+    left: 600px;
+    top: -800px;
+}
+.audio5{
+    position: relative;
+    left: 570px ;
+    top: -800px;
+}
+
+
+.Song6{
+    position: relative;
+    left: 1150px;
+    top: -1050px;
+}
+
+.audio6{
+    position: relative;
+    left: 1125px;
+    top: -1050px;
+}

@@ -1,0 +1,51 @@
+*{
+    background-color: grey;
+}
+
+
+.bar{
+    background-color: cadetblue;
+    padding: 2%;
+    margin-right: 1200px;
+}
+
+.bar img{
+    width: 120px;
+    height: 130px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 2%;
+    text-indent: 2%;
+}
+
+a:hover{
+    color: transparent;
+}
+
+.song1{
+    position: relative;
+    top: 50px;
+}
+
+.song2{
+    position: relative;
+    top: -260px;
+    left: 900px;
+
+}
+
+.song3{
+    position: relative;
+    top: -250px;
+}
+
+.song4{
+    position: relative;
+    left: 900px;
+    top: -550px;
+}
